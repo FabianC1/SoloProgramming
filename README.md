@@ -55,5 +55,5 @@ I want to become a **strong frontend and full-stack developer**, and I believe i
 ## ✍️ Author
 
 **Fabian**  
-React developer in training — driven by challenge, guided by code.e
+React developer — driven by challenge, guided by code.
 
